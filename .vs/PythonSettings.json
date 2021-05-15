@@ -1,0 +1,5 @@
+{
+  "Interpreter": "env\\Scripts\\python.exe",
+  "SuppressConfigureTestFrameworkPrompt": "true",
+  "SuppressEnvironmentCreationPrompt": true
+}
